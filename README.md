@@ -3,10 +3,10 @@
 [![TS-Standard - Typescript Standard Style Guide](https://badgen.net/badge/code%20style/ts-standard/blue?icon=typescript)](https://github.com/standard/ts-standard)
 
 <p>
-    Plataforma de video desenvolvida durante o evento Ignite lab 2, com foco em prática de ReactJs associado a stack detalhada nesse readme, as imagens são links para a documentação...
+    Plataforma de video desenvolvida durante o evento Ignite lab 2
 </p>
 
-## Tecnologias útilizadas
+## Tecnologias usadas no projeto
 
 <div>
  <a href='https://vitejs.dev/guide/'>
